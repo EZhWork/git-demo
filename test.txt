@@ -9,7 +9,12 @@ vdfvd
 
 dfvhbfdvj
 dvkn[vdfvd
+<<<<<<< HEAD
 =============
 
 feature++
 qwe
+=======
+--
+++
+>>>>>>> 3758aef178ea0406b7e0e9184a4af88973b97e4e
